@@ -1,5 +1,5 @@
 Hey there!✋✌️ 
-I’m Miraya, a frontend developer based in India.
+I’m Vaishnav, a frontend developer based in India.
 
 I design and build whatever I can find new in coding.
 
